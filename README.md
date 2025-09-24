@@ -1,0 +1,35 @@
+<marquee bgcolor="orange">.</marquee>
+<marquee bgcolor="orange">.</marquee>
+<marquee bgcolor="orange">.</marquee>
+<font face="consolas" color="orange">
+<h1>Princess</h1>
+<h3>Ane sye</h3>
+<h3>Aims</h3>
+<h4>Rostler</h4>
+<h4>Lawrence</h4>
+<h4>Adrian</h4>
+<h4>Kobe</h4>
+<h4>John Nazarene</h4>
+<h4>Harold</h4>
+<h6>Rayven</h6>
+<h4>Vyndyll</h4>
+</font>
+<center>
+  <button style="padding:10px 20px; font-size:18px; border-radius:8px; background-color:blue; color:white; cursor:pointer;"
+          onclick="window.location.href='https:F';">
+    foot partialism
+  </button>
+</center> <br> <br> <br> <br>
+
+<marquee bgcolor="orange">.</marquee>
+<marquee bgcolor="orange">comming soon</marquee>
+<marquee bgcolor="orange">.</marquee>
+
+
+
+</body>
+</html>
+
+
+</body>
+</html>
